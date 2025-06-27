@@ -8,3 +8,14 @@ This repository contains Java code files demonstrating various Object-Oriented P
    - **Description**: This folder focuses on constructors in Java, which are special methods used to initialize objects. It demonstrates the use of default constructors and parameterized constructors.
 ## 3. **Function Parameter**
    - **Description**: Code in this folder shows how to pass parameters to functions in Java. It covers different types of parameters, including primitive types and object references.
+## 4. **Inheritance**
+   - **Description**: This folder demonstrates the concept of inheritance, where a class can inherit methods and properties from another class. It showcases how subclassing works and the use of the `extends` keyword.
+
+## 5. **Instance Variables**
+   - **Description**: The code here explains instance variables, which are non-static variables defined in a class. Each object created from the class has its own copy of these variables.
+
+## 6. **Java Interface**
+   - **Description**: This folder demonstrates Java interfaces, which define abstract methods that implementing classes must provide. It shows how interfaces are used to achieve abstraction and multiple inheritance.
+
+## 7. **Method Overloading**
+   - **Description**: Code in this folder explains method overloading in Java. Method overloading allows you to define multiple methods with the same name but different parameter lists.
